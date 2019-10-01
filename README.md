@@ -9,11 +9,15 @@ Mathilde, Léo, Léontine :
 
 # *COURS > le Terminal*
 
+////////////
+
 q = quit 
 d = supprimer
 .. = retour à la commande précédente
 :w = sauvegarder
 :q = quitter le terminal
+
+////////////
 
 * **Les trucs en LS (list directory contents)** **List in long format**
 ls = Liste des elements présents dans l'élément selectionné
@@ -49,6 +53,8 @@ Il y a deux modes, un mode "édition", ou "insert" et un mode "normal".
 On accède au mode "insert" pour pouvoir insérer des caractères dans le texte avec la touche *i*. On revient dans le monde normal avec la touche *ESC*.
 Dans le mode normal, on tape des commandes comme dans la console classique.
 
+////////////
+
 *cw* = pour changer word, permet de changer un mot.
 *dw* = pour delete word, permet de supprimer un mot.
 *dd* = pour delete, permet de supprimer une ligne.
@@ -58,6 +64,8 @@ Dans le mode normal, on tape des commandes comme dans la console classique.
 *:w* = pour write, permet d'enregistrer le fichier.
 *:q* = pour quit, permet de quitter vim+revenir à la console.
 *:wq* = pour write+quit fait les deux.
+
+////////////
 
 Il y a un guide intégré dans vim, il faut entrer la commande *vimtutor*. Compter une vingtaine de minutes pour suivre l'intrégralité du guide.
 
