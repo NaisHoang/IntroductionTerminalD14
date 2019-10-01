@@ -9,6 +9,8 @@ Mathilde, Léo, Léontine :
 
 # *COURS > le Terminal*
 
+![](https://i.imgur.com/kMPdz0J.mp4)
+
 ////////////
 
 q = quit 
